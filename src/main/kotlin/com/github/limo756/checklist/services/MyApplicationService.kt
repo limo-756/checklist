@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.limo756.checklist.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.limo756.checklist.MyBundle
 
 class MyApplicationService {
 
